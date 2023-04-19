@@ -1,0 +1,13 @@
+C:\Users\mirek\source\repos\Pracownicy MVP\Pracownicy MVP\bin\Debug\Pracownicy MVP.exe.config
+C:\Users\mirek\source\repos\Pracownicy MVP\Pracownicy MVP\bin\Debug\Pracownicy MVP.exe
+C:\Users\mirek\source\repos\Pracownicy MVP\Pracownicy MVP\bin\Debug\Pracownicy MVP.pdb
+C:\Users\mirek\source\repos\Pracownicy MVP\Pracownicy MVP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mirek\source\repos\Pracownicy MVP\Pracownicy MVP\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mirek\source\repos\Pracownicy MVP\Pracownicy MVP\obj\Debug\Pracownicy MVP.csproj.AssemblyReference.cache
+C:\Users\mirek\source\repos\Pracownicy MVP\Pracownicy MVP\obj\Debug\Pracownicy_MVP.Properties.Resources.resources
+C:\Users\mirek\source\repos\Pracownicy MVP\Pracownicy MVP\obj\Debug\Pracownicy_MVP.View.Form1.resources
+C:\Users\mirek\source\repos\Pracownicy MVP\Pracownicy MVP\obj\Debug\Pracownicy MVP.csproj.GenerateResource.cache
+C:\Users\mirek\source\repos\Pracownicy MVP\Pracownicy MVP\obj\Debug\Pracownicy MVP.csproj.CoreCompileInputs.cache
+C:\Users\mirek\source\repos\Pracownicy MVP\Pracownicy MVP\obj\Debug\Pracownicy MVP.csproj.CopyComplete
+C:\Users\mirek\source\repos\Pracownicy MVP\Pracownicy MVP\obj\Debug\Pracownicy MVP.exe
+C:\Users\mirek\source\repos\Pracownicy MVP\Pracownicy MVP\obj\Debug\Pracownicy MVP.pdb

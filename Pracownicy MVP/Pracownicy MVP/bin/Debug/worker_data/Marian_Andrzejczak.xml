@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<employing xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>Marian</Name>
+  <Surname>Andrzejczak</Surname>
+  <Date>09.01.1989</Date>
+  <Salary>5100</Salary>
+  <Job_title>Inżynier</Job_title>
+  <Contract>umowa na czas nieokreślony</Contract>
+</employing>

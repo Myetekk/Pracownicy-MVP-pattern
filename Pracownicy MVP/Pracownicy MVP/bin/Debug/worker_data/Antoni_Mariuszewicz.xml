@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<employing xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>Antoni</Name>
+  <Surname>Mariuszewicz</Surname>
+  <Date>29.05.1970</Date>
+  <Salary>7450</Salary>
+  <Job_title>Młodszy programista</Job_title>
+  <Contract>umowa zlecenie</Contract>
+</employing>
